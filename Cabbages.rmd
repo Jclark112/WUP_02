@@ -67,4 +67,6 @@ t.test(VitC~Cult,data=veggy)
 ```
 # Discussion and Conclusion
 
-<!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+<!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variables causes theor whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+We can conclude that the VitC content based on the cultivation method  C52 is higher than the method C39 as it is a value less than 0.05. We then fail to reject the hypothesis. 
